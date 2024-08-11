@@ -1,0 +1,4 @@
+# for loop in python 
+s=ankita
+for i in s:
+print(i)
